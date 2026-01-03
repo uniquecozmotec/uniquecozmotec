@@ -3,7 +3,6 @@
 
 <br/>
 
-
 <a href="https://www.linkedin.com/in/unique-paliwal-6a3456226/" target="blank">
 <img align="left" alt="Unique" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -25,11 +24,7 @@ Hi,I'm Unique paliwal 🙌, a constantly learning and improving developer , curr
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CosmoTec.
-- 🌱 I’m currently learning Nextjs and TypeScript.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform or on (paliwalunique@gmail.com)
+- 📫 How to reach me: Any of the Social-Media Platform or on (zantro20@gmail.com)
 - look me up at => <a href="https://leetcode.com/AllUnique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rammodi0509/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/zantro20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rammodedd6/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
   <!-- 📝[Portfolio]( - )  -->
