@@ -1,33 +1,63 @@
+<h1 align="center">Hey Amigos 👋, I'm Unique Paliwal</h1>
 
-<h1 align="center"> Hello Amigos 👋 It's Unique! </h1>
+<p align="center">
+A curious developer • Problem solver • Anime enthusiast ❤️
+</p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/unique-paliwal-6a3456226/" target="blank">
-<img align="left" alt="Unique" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/paliwalunique/" target="blank">
-<img align="left" alt="Unique" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/unique-paliwal-6a3456226/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/paliwalunique/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=uniquepaliwal2003&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepaliwal2003" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uniquecozmotec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<br />
+---
 
-<br />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
 
-Hi,I'm Unique paliwal 🙌, a constantly learning and improving developer , currently trying to build two projects , firstly Second hand book store (website) for my college , so students can sell there old semester books to juniors and a blogging app to write blogs about the animes i love  . Apart from that I love getting involved in Problem Solving and watching anime.❤✌
+### 👨‍💻 About Me
 
+Hi, I'm **Unique** 🙌 — a developer who enjoys building, breaking, and fixing things.
 
-<img align="right" alt="image" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
+I enjoy building things that are simple, useful, and a bit fun.
 
+I’m into:
 
-**Talking about Personal Stuffs:**
+* 🧠 **Problem Solving** (DSA, LeetCode)
+* 🎌 Watching anime
+* 🚀 Exploring tech by building projects
 
-- 📫 How to reach me: Any of the Social-Media Platform or on (zantro20@gmail.com)
-- look me up at => <a href="https://leetcode.com/AllUnique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rammodi0509/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zantro20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rammodedd6/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-  <!-- 📝[Portfolio]( - )  -->
+---
 
+### 📬 Connect With Me
 
-![Unique's github stats](https://github-readme-stats.vercel.app/api?username=uniquepaliwal2003&show_icons=true&hide_border=true)
+* 📧 Email: **[zantro20@gmail.com](mailto:zantro20@gmail.com)**
+* 💼 LinkedIn: [Unique Paliwal](https://www.linkedin.com/in/unique-paliwal-6a3456226/)
+* 📸 Instagram: [@paliwalunique](https://www.instagram.com/paliwalunique/)
+
+---
+
+### 🧩 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/AllUnique/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+
+</p>
+
+---
+
+<p align="center">
+⚡ Code. Anime. Repeat. ⚡
+</p>
